@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        namespace: 9b1fe4e4-d131-4ac9-b3a4-ec1241069daa
