@@ -5,8 +5,6 @@ import com.metrix.researcher.service.ResearcherService;
 import feign.Feign;
 import feign.Request;
 import feign.Retryer;
-import feign.jackson.JacksonDecoder;
-import feign.jackson.JacksonEncoder;
 import org.springframework.stereotype.Service;
 
 /**

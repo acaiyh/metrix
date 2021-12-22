@@ -5,6 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
+ * 服务熔断，降级 处理
  * @author stephen.cai
  * @date 2021/12/16
  **/
